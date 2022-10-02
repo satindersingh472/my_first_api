@@ -1,4 +1,6 @@
+# import mariadb
 import mariadb
+# import db creds file
 import dbcreds
 
 def connect_db():
